@@ -1,1 +1,1 @@
-# EC2-microservice
+# GCP-microservice
